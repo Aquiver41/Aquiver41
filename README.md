@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Merhaba, ben Muhammet Emin Sancar 👋</h1>
+
+<p align="center">
+42 Kocaeli öğrencisiyim. C diliyle sistem programlama, ağ ve Linux üzerinde çalışıyorum.
+</p>
+
+<p align="center">
+<a href="https://github.com/Aquiver41">
+  <img src="https://img.shields.io/github/followers/Aquiver41?style=flat" />
+</a>
+<a href="https://github.com/Aquiver41?tab=repositories">
+  <img src="https://img.shields.io/badge/Repos-42%20Projects-informational" />
+</a>
+</p>
+
+## 🚀 Şu an
+- Libft, GNL, ft_printf, Born2BeRoot, Minitalk
+
+## 🧰 Teknolojiler
+C • Make • Git • Linux • Bash • Valgrind • gdb • Markdown
+
+## 📌 Öne Çıkan Repo
+🔗 [42 Toplu Repo](https://github.com/Aquiver41/42)
+
+---
