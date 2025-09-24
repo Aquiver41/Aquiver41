@@ -39,3 +39,8 @@ C • Make • Git • Linux • Bash • Valgrind • gdb • Markdown
 🔗 [42 Toplu Repo](https://github.com/Aquiver41/42)
 
 ---
+## 🔥 Katkı Serisi
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aquiver41&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
